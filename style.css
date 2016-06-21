@@ -1,0 +1,14 @@
+#graph {
+    width: 1400px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.bar {
+    background: blue;
+    width: 2px;
+    height: 50px;
+}
